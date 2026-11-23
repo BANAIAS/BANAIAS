@@ -24,7 +24,7 @@ Code source privé.
 
 ![HKO Météo — Résumé du jour](Capture%20d%27%C3%A9cran%202026-11-23%20105052.png)
 
-**[Voir le site](https://hashkao.com/meteo/) · [Explorer le code](https://github.com/BANAIAS/hashkao)**
+**[Voir le site](https://hashkao.com/meteo/) · [Explorer le code](https://github.com/BANAIAS/hashkao/tree/refonte-meteo/meteo_app)**
 
 Une plateforme météorologique automatisée qui transforme les données d'observation, les images satellite et le radar européen en visualisations animées inspirées des bulletins télévisés.
 
