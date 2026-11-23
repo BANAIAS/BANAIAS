@@ -36,7 +36,7 @@ Le projet comprend notamment un film satellite quotidien, un Résumé du jour g�
 
 ![HKO Crypto — Suivi des cryptomonnaies](Capture%20d%27%C3%A9cran%202026-11-23%20105337.png)
 
-**[Voir le site](https://hashkao.com/) · [Explorer le code](https://github.com/BANAIAS/hashkao)**
+**[Voir le site](https://hashkao.com/) · [Explorer le code](https://github.com/BANAIAS/hashkao/tree/refonte-meteo/crypto_vibe)
 
 Une interface de suivi des cryptomonnaies combinant cotations, graphiques interactifs, analyse de sentiment et prévisions expérimentales.
 
